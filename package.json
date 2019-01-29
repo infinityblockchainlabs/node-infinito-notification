@@ -1,5 +1,5 @@
 {
-  "name": "infinito-notification",
+  "name": "node-infinito-notification",
   "version": "1.0.0",
   "description": "Blockchain Event Notification",
   "main": "index.js",
