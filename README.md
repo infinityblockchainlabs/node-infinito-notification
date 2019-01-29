@@ -1,2 +1,3 @@
-# node-infinito-notification
-node-infinito-notification
+# Documentation
+
+- For Documentation, visit https://platform.infinito.io/docs/
